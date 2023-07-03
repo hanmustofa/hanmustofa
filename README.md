@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanmustofa
 - 👀 I’m interested in web programming and Testing App
-- 🌱 I’m currently learning java and flutter
+- 🌱 I’m currently learning java and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
